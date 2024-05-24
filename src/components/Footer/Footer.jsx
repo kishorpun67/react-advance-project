@@ -27,36 +27,36 @@ function Footer() {
                             </h3>
                             <ul>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Features
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Pricing
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Affiliate Program
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Press Kit
-                                    </a>
+                                    </Link>
                                 </li>
                             </ul>
                         </div>
@@ -68,36 +68,36 @@ function Footer() {
                             </h3>
                             <ul>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Account
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Help
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Contact Us
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Customer Support
-                                    </a>
+                                    </Link>
                                 </li>
                             </ul>
                         </div>
@@ -109,28 +109,28 @@ function Footer() {
                             </h3>
                             <ul>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Terms &amp; Conditions
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li className="mb-4">
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Privacy Policy
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a
+                                    <Link
                                         className=" text-base font-medium text-gray-900 hover:text-gray-700"
                                         to="/"
                                     >
                                         Licensing
-                                    </a>
+                                    </Link>
                                 </li>
                             </ul>
                         </div>
